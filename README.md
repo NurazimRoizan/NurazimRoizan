@@ -144,11 +144,6 @@ Sunday           44 commits    ██░░░░░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NurazimRoizan&show_icons=true&theme=tokyonight&hide_border=false" alt="Nurazim's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurazimRoizan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,dotnet,cs,tailwind,supabase,postgres,prisma,c,cpp,git,html,css,vite,figma" alt="Skill Icons" />
 </p>
 
