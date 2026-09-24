@@ -59,13 +59,15 @@ jobs:
           repo: PiYak
           delay: 15
 
-      - name: Wallo Spotlight
-        uses: lowlighter/metrics@latest
-        continue-on-error: true
-        with:
-          filename: metrics.repo.wallo.svg
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          template: repository
-          user: NurazimRoizan
-          repo: Nyekk
-          delay: 15
+      # Wallo is private; uncomment once METRICS_TOKEN is added to repository secrets:
+      # - name: Wallo Spotlight
+      #   uses: lowlighter/metrics@latest
+      #   continue-on-error: true
+      #   with:
+      #     filename: metrics.repo.wallo.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     template: repository
+      #     user: NurazimRoizan
+      #     repo: Nyekk
+      #     delay: 15
+
