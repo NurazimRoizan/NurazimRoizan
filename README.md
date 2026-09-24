@@ -56,6 +56,9 @@
       <p align="center">
         <code>React Native</code> • <code>Expo</code> • <code>TypeScript</code> • <code>Zustand</code> • <code>Supabase</code>
       </p>
+      <p align="center">
+        <img src="metrics.repo.wallo.svg" alt="Wallo Repository Card" width="100%" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💩 PiYak</h3>
@@ -71,6 +74,9 @@
       </ul>
       <p align="center">
         <code>Next.js</code> • <code>Tailwind CSS</code> • <code>Prisma</code> • <code>Clerk</code> • <code>PostgreSQL</code>
+      </p>
+      <p align="center">
+        <img src="metrics.repo.piyak.svg" alt="PiYak Repository Card" width="100%" />
       </p>
     </td>
   </tr>
@@ -144,7 +150,11 @@ Sunday           44 commits    ██░░░░░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Nurazim's GitHub Metrics" />
+  <img src="metrics.plugin.isocalendar.svg" alt="3D Isometric Contribution Calendar" />
+</p>
+
+<p align="center">
+  <img src="metrics.plugin.languages.svg" alt="Languages & Coding Habits" />
 </p>
 
 <p align="center">
