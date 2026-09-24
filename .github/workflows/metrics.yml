@@ -16,6 +16,7 @@ jobs:
     steps:
       - name: 3D Isometric Calendar
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
@@ -27,6 +28,7 @@ jobs:
 
       - name: Languages & Coding Habits
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
@@ -46,22 +48,24 @@ jobs:
           config_timezone: Asia/Kuala_Lumpur
           delay: 15
 
-      - name: Wallo Spotlight
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.repo.wallo.svg
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          template: repository
-          user: NurazimRoizan
-          repo: Wallo
-          delay: 15
-
       - name: PiYak Spotlight
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics.repo.piyak.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           template: repository
           user: NurazimRoizan
           repo: PiYak
+          delay: 15
+
+      - name: Wallo Spotlight
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with:
+          filename: metrics.repo.wallo.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          template: repository
+          user: NurazimRoizan
+          repo: Nyekk
           delay: 15
