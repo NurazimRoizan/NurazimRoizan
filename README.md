@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/kigKjAJryWTZK/giphy.gif" width="220" alt="Ghostface WAZZUP" />
 
 # WAZZZZUUUUUUPPPP 🤪
-### `jimiroi` • Frontend Engineer • Motion Obsessive • Neo-Brutalist Tinkerer
+### `jimiroi` • Frontend Engineer • Motion Obsessive • Creative UI Tinkerer
 
 <p align="center">
   <a href="https://portfolio.jimiroi.com">
@@ -20,16 +20,16 @@
   </a>
 </p>
 
-> *"96% Front-End Developer, 4% Dark Mode Evangelist, 100% obsessed with fluid code-driven animations (if it's a pre-rendered video export, keep it away from me)."*
+> *"33% obsessed with fluid code-driven animation and 67% sixx sebeeeeennnnn"*
 
 </div>
 
 ---
 
-### ⚡ The TL;DR
+### ⚡ TL;DR
 
 - 🏢 **Day Job:** Software Engineer at **Softinn Solutions**, building high-throughput hotel SaaS systems with **Angular (17+)**, **C#**, **.NET**, and **Razor**.
-- 🎨 **Night Shift:** Solo builder crafting tactile, high-energy Neo-Brutalist applications with **React Native (Expo)**, **Next.js**, and **Supabase**.
+- 🎨 **Night Shift:** Solo builder crafting high-energy, tactile interactive applications with **React Native (Expo)**, **Next.js**, and **Supabase**.
 - 🌀 **Animation Purist:** Obsessed with 60/120 FPS micro-interactions engineered with pure code — `react-native-reanimated`, `framer-motion`, and `@shopify/react-native-skia`.
 - 🛋️ **Hardware Tinkerer:** Handcrafted custom BLE + IR controllers with **ESP32-S3** so I never have to leave the gravitational pull of the sofa.
 - ⚡ **Fun Fact:** I unironically like the smell of my own fart. I stand proudly behind everything I produce. 💨
@@ -65,7 +65,7 @@
         <a href="https://github.com/NurazimRoizan/PiYak"><b>Source Code</b></a>
       </p>
       <ul>
-        <li>Who said health tracking has to be sterile? A neo-brutalist PWA tracking daily bowel movements & menstrual cycles.</li>
+        <li>Who said health tracking has to be sterile? A delightfully unhinged, high-contrast PWA tracking daily bowel movements & menstrual cycles.</li>
         <li><b>Partner Sync (Spy Mode)</b>, 18 gamified achievements, monthly <i>Yak Wrapped</i>, and an aggressive "Toilet Boss".</li>
         <li>Built for real-world daily utility with push notifications and seamless mobile PWA install.</li>
       </ul>
@@ -91,14 +91,14 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Neo-Brutalist Portfolio</h3>
+      <h3 align="center">🌐 Interactive Portfolio</h3>
       <p align="center"><b>Digital Clone & Live Telemetry</b></p>
       <p align="center">
         <a href="https://portfolio.jimiroi.com"><b>portfolio.jimiroi.com</b></a> • 
         <a href="https://github.com/NurazimRoizan/NurazimRoizan.github.io"><b>Source Code</b></a>
       </p>
       <ul>
-        <li>Interactive personal portfolio built with a strict Neo-Brutalist aesthetic and custom inverted theming engine.</li>
+        <li>Interactive personal portfolio built with a custom high-contrast theme and bespoke inverted color engine.</li>
         <li><b>AI Digital Clone</b> powered by <b>Google Gemini</b> + Vercel AI SDK to answer visitor inquiries.</li>
         <li>Live athletic telemetry dynamically synced via the <b>Strava API</b>.</li>
       </ul>
@@ -168,6 +168,6 @@ Sunday           44 commits    ██░░░░░░░░░░░░░░�
 
 <br/>
 
-<sub><i>"Boring, sterile corporate websites are everywhere. We don't do boring here."</i></sub>
+<sub><i>"Boring, sterile corporate websites are everywhere. I don't do boring here."</i></sub>
 
 </div>
