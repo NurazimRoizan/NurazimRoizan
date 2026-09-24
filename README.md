@@ -144,6 +144,10 @@ Sunday           44 commits    ██░░░░░░░░░░░░░░�
 </p>
 
 <p align="center">
+  <img src="github-metrics.svg" alt="Nurazim's GitHub Metrics" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,dotnet,cs,tailwind,supabase,postgres,prisma,c,cpp,git,html,css,vite,figma" alt="Skill Icons" />
 </p>
 
