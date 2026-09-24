@@ -1,6 +1,8 @@
 <div align="center">
 
-# Yo, I'm Nurazim 👋
+<img src="https://media.giphy.com/media/kigKjAJryWTZK/giphy.gif" width="220" alt="Ghostface WAZZUP" />
+
+# WAZZZZUUUUUUPPPP 🤪
 ### `jimiroi` • Frontend Engineer • Motion Obsessive • Neo-Brutalist Tinkerer
 
 <p align="center">
@@ -107,31 +109,33 @@
   </tr>
 </table>
 
----
-
-### 🛠️ Weapon Arsenal
-
-```bash
-# Core Creative Arsenal (Mobile & Web)
-React, React Native, Next.js, TypeScript, Tailwind CSS, Framer Motion, Reanimated, Skia, Zustand
-
-# Enterprise & Work Stack
-Angular (17+), C#, .NET, Razor, SQL, RESTful APIs
-
-# Backend, Auth & Database
-Supabase, PostgreSQL, Prisma, Clerk, Firebase, Vercel
-
-# Embedded & Hardware Tinkering
-ESP32-S3, C/C++, PlatformIO, NimBLE Stack, MicroPython
-```
+### 📊 GitHub Activity & Telemetry
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,dotnet,cs,tailwind,supabase,postgres,prisma,c,cpp,git,html,css,vite,figma" alt="Skill Icons" />
+  <img src="https://img.shields.io/badge/Code_Time-500%2B_hrs-blue?style=flat&logo=visualstudiocode" alt="Code Time" />
+  <img src="https://img.shields.io/badge/AI_Code_Time-120%2B_hrs-8A2BE2?style=flat&logo=google" alt="AI Code Time" />
 </p>
 
----
+**I'm a Daytime Builder ☀️**
 
-### 📊 GitHub Activity & Telemetry
+```text
+🌞 Morning          172 commits    ██████░░░░░░░░░░░░░░░░░░░    23.63 %
+🌆 Daytime          483 commits    █████████████████░░░░░░░░    66.35 %
+🌃 Evening           67 commits    ██░░░░░░░░░░░░░░░░░░░░░░░     9.20 %
+🌙 Night              6 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░     0.82 %
+```
+
+📅 **I'm Most Productive on Friday**
+
+```text
+Monday          114 commits    ████░░░░░░░░░░░░░░░░░░░░░    15.66 %
+Tuesday         117 commits    ████░░░░░░░░░░░░░░░░░░░░░    16.07 %
+Wednesday       114 commits    ████░░░░░░░░░░░░░░░░░░░░░    15.66 %
+Thursday        164 commits    ██████░░░░░░░░░░░░░░░░░░░    22.53 %
+Friday          167 commits    ██████░░░░░░░░░░░░░░░░░░░    22.94 %
+Saturday          8 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░     1.10 %
+Sunday           44 commits    ██░░░░░░░░░░░░░░░░░░░░░░░     6.04 %
+```
 
 <p align="center">
   <a href="https://github.com/NurazimRoizan">
@@ -142,6 +146,10 @@ ESP32-S3, C/C++, PlatformIO, NimBLE Stack, MicroPython
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NurazimRoizan&show_icons=true&theme=tokyonight&hide_border=false" alt="Nurazim's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurazimRoizan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,dotnet,cs,tailwind,supabase,postgres,prisma,c,cpp,git,html,css,vite,figma" alt="Skill Icons" />
 </p>
 
 ---
