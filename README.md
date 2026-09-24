@@ -56,10 +56,9 @@
       <p align="center">
         <code>React Native</code> • <code>Expo</code> • <code>TypeScript</code> • <code>Zustand</code> • <code>Supabase</code>
       </p>
-      <!-- Uncomment once METRICS_TOKEN is added:
       <p align="center">
         <img src="metrics.repo.wallo.svg" alt="Wallo Repository Card" width="100%" />
-      </p> -->
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💩 PiYak</h3>
