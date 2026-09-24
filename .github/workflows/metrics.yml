@@ -26,7 +26,7 @@ jobs:
           config_timezone: Asia/Kuala_Lumpur
           delay: 15
 
-      - name: Languages & Coding Habits
+      - name: Languages Breakdown
         uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
@@ -40,32 +40,5 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
           config_timezone: Asia/Kuala_Lumpur
-          delay: 15
-
-      - name: PiYak Spotlight
-        uses: lowlighter/metrics@latest
-        continue-on-error: true
-        with:
-          filename: metrics.repo.piyak.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: repository
-          user: NurazimRoizan
-          repo: PiYak
-          delay: 15
-
-      - name: Wallo Spotlight
-        uses: lowlighter/metrics@latest
-        continue-on-error: true
-        with:
-          filename: metrics.repo.wallo.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: repository
-          user: NurazimRoizan
-          repo: Nyekk
           delay: 15
