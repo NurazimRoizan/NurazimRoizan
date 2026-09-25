@@ -88,8 +88,8 @@
 ### 📊 GitHub Activity & Telemetry
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code_Time-500%2B_hrs-blue?style=flat&logo=visualstudiocode" alt="Code Time" />
-  <img src="https://img.shields.io/badge/AI_Code_Time-120%2B_hrs-8A2BE2?style=flat&logo=google" alt="AI Code Time" />
+  <img src="https://img.shields.io/badge/Code_Time-342%20hrs%2018%20mins-blue?style=flat&logo=visualstudiocode" alt="Code Time" />
+  <img src="https://img.shields.io/badge/AI_Code_Time-88%20hrs%2045%20mins-8A2BE2?style=flat&logo=google" alt="AI Code Time" />
 </p>
 
 **I'm a Daytime Builder ☀️**
